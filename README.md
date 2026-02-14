@@ -37,3 +37,14 @@ How a meeting is organized:
 - The meeting lasts for an hour
 - First 30-40 minutes are allocated for the presentation, according to the summary
 - Last 20-30 minutes are allocated for Q&A and discussion
+
+
+## Roadmap
+
+- Elliptic Curves
+- Schnorr Signatures
+- Zero Knowledge Proofs
+- Scriptless scripts
+- MUSIG2
+- FROST
+- BitVM
