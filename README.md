@@ -16,6 +16,7 @@ The initial plan is to meet every week, discuss a whitepaper, and work out the m
 
 ### Foundations
 
+- Elliptic Curves, ECDSA an Schnorr (by sandipan)
 - Programming Bitcoin, by Jimmy Song. Chapters 1-4 include building the ECC layer from scratch. Source code: https://github.com/jimmysong/programmingbitcoin?tab=readme-ov-file. Book: https://www.oreilly.com/library/view/programming-bitcoin/9781492031482/
 - Some slides on taproot and schnorr: https://download.wpsoftware.net/bitcoin/wizardry/mw-slides/2017-05-milan-meetup/slides.pdf
 - Intro to Zero Knowledge Proofs: https://zkintro.com/
@@ -24,6 +25,7 @@ The initial plan is to meet every week, discuss a whitepaper, and work out the m
    - This one has a lot of explainers about digital signatures and other ZKPs
 - Arkworks: https://github.com/arkworks-rs/snark
    - BitVM uses arkworks as an inspiration
+- For cryptography, in general: https://github.com/sobolevn/awesome-cryptography
 
 
 ## Meetings
@@ -37,3 +39,14 @@ How a meeting is organized:
 - The meeting lasts for an hour
 - First 30-40 minutes are allocated for the presentation, according to the summary
 - Last 20-30 minutes are allocated for Q&A and discussion
+
+
+## Roadmap
+
+- Elliptic Curves
+- Schnorr Signatures
+- Zero Knowledge Proofs
+- Scriptless scripts
+- MUSIG2
+- FROST
+- BitVM
