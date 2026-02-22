@@ -16,6 +16,7 @@ The initial plan is to meet every week, discuss a whitepaper, and work out the m
 
 ### Foundations
 
+- Provable Cryptography for Bitcoin: https://delvingbitcoin.org/t/provable-cryptography-for-bitcoin-an-introduction-workbook/1974
 - Elliptic Curves, ECDSA an Schnorr (by sandipan): https://sandipan.dev/blog/curves-behind-bitcoin
 - Programming Bitcoin, by Jimmy Song. Chapters 1-4 include building the ECC layer from scratch. Source code: https://github.com/jimmysong/programmingbitcoin?tab=readme-ov-file. Book: https://www.oreilly.com/library/view/programming-bitcoin/9781492031482/
 - Some slides on taproot and schnorr: https://download.wpsoftware.net/bitcoin/wizardry/mw-slides/2017-05-milan-meetup/slides.pdf
